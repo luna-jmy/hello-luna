@@ -1,2 +1,2 @@
 # hello-luna
-learn python by yourself
+this is a test
